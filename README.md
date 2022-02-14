@@ -19,16 +19,16 @@
 Игрвой движок - Unity 2020.1;
 Язык программирования скриптов - C#
 # 3 Пользовательский интерфейс
-Главное меню
-![Главное меню](https://user-images.githubusercontent.com/55682509/153876442-a64a145c-c933-4ac6-8bf7-c0a3e1ee5409.png)
-Древо умений
-![Древо умения](https://user-images.githubusercontent.com/55682509/153876468-287b3bd8-3cc3-4a5d-9e90-a6c310460f8c.png)
-Окно паузы
-![Окно паузы](https://user-images.githubusercontent.com/55682509/153876500-5105ccf4-2632-4353-af41-6f66ea8148e4.png)
-Меню доната
-![Меню доната](https://user-images.githubusercontent.com/55682509/153876484-f9d44939-3436-4a50-95e9-f5180396d875.png)
-Окно улучшений
-![Окно улучшений](https://user-images.githubusercontent.com/55682509/153876510-285836dc-aa84-4d24-853e-b31eaea9f4e9.png)
+- Главное меню
+- ![Главное меню](https://user-images.githubusercontent.com/55682509/153876442-a64a145c-c933-4ac6-8bf7-c0a3e1ee5409.png)
+- Древо умений
+- ![Древо умения](https://user-images.githubusercontent.com/55682509/153876468-287b3bd8-3cc3-4a5d-9e90-a6c310460f8c.png)
+- Окно паузы
+- ![Окно паузы](https://user-images.githubusercontent.com/55682509/153876500-5105ccf4-2632-4353-af41-6f66ea8148e4.png)
+- Меню доната
+- ![Меню доната](https://user-images.githubusercontent.com/55682509/153876484-f9d44939-3436-4a50-95e9-f5180396d875.png)
+- Окно улучшений
+- ![Окно улучшений](https://user-images.githubusercontent.com/55682509/153876510-285836dc-aa84-4d24-853e-b31eaea9f4e9.png)
 
 # 4 Функциональные требования 
 - Начать игру
