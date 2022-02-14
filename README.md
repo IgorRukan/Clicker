@@ -20,7 +20,7 @@
 Язык программирования скриптов - C#
 # 3 Пользовательский интерфейс
 - Главное меню
-![Главное меню](https://user-images.githubusercontent.com/55682509/153876442-a64a145c-c933-4ac6-8bf7-c0a3e1ee5409.png)
+- ![Главное меню](https://user-images.githubusercontent.com/55682509/153876442-a64a145c-c933-4ac6-8bf7-c0a3e1ee5409.png)
 - Древо умений
 - ![Древо умения](https://user-images.githubusercontent.com/55682509/153876468-287b3bd8-3cc3-4a5d-9e90-a6c310460f8c.png)
 - Окно паузы
